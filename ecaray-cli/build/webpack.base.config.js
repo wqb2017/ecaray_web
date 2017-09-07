@@ -1,6 +1,6 @@
 const
-  path = require('path')
-webpack = require('webpack')
+  path = require('path');
+webpack = require('webpack');
 Glob = require('glob').Glob;
 
 const
@@ -16,7 +16,7 @@ function getPath(...args) {
 }
 
 function resolve (dir) {
-  return path.join(__dirname, '..', dir)
+  return path.join(__dirname, '..', dir);
 }
 
 function getCommonsChunk() {
@@ -50,7 +50,7 @@ function getCommonsChunkPluginSetting() {
           return module.context && module.context.index('node_modules') !== -1;
         }
       })
-    ]
+    ];
 }
 
 module.exports = {
@@ -172,4 +172,4 @@ module.exports = {
       }
     ])
   ].concat(getCommonsChunkPluginSetting())
-}
+};
