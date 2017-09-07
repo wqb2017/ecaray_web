@@ -104,5 +104,5 @@ export default {
       this.$refs[formName].resetFields();
     }
   }
-}
+};
 </script>

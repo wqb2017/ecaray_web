@@ -15,6 +15,10 @@ function getPath(...args) {
   return pathJoin(config.assetsRoot, ...args);
 }
 
+function resolve (dir) {
+  return path.join(__dirname, '..', dir)
+}
+
 function getCommonsChunk() {
   return new Glob('!(_)*/!(_)*.js', {
     cwd: getPath('pages', 'common'),
@@ -92,6 +96,15 @@ module.exports = {
           path.resolve(__dirname, '..', 'text')
         ],
         loader: 'babel-loader'
+      },
+      {
+        test: /\.(js|vue)$/,
+        loader: 'eslint-loader',
+        enforce: 'pre',
+        include: [resolve('src')],
+        options: {
+          formatter: require('eslint-friendly-formatter')
+        }
       },
       {
         test: /\.css$/,

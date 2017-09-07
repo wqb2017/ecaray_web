@@ -23,7 +23,7 @@ export default {
         password: "",
       },
       isDisabled: true
-    }
+    };
   },
   methods: {
     //账号和密码长度都大于5才可以点击
@@ -39,7 +39,7 @@ export default {
       this.$router.push({ path: "/table" });
     }
   }
-}
+};
 </script>
 <style lang="scss" scoped>
 .login-index {

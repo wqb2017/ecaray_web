@@ -17,16 +17,14 @@
 </template>
 
 <script>
-import Fetch from "@/common/js/fetch"
+import Fetch from "@/common/js/fetch";
 export default {
   data () {
-    return {
-      
-    }
+    return {};
   },
   created () {
     console.log($);
     console.log(Fetch);
   }
-}
+};
 </script>

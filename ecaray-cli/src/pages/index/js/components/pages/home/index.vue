@@ -21,7 +21,7 @@ export default {
     SidebarCom,
     HeaderCom
   }
-}
+};
 </script>
 <style lang="scss" scoped>
 @import "./../../../../../common/style/variable.scss";

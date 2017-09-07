@@ -47,4 +47,4 @@ export default {
       meta: { title: "评分" }
     }
   ]
-}
+};

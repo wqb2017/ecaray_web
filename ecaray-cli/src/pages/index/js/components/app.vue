@@ -5,9 +5,9 @@
 </template>
 
 <script>
-export default {}
+export default {};
 </script>
 
 <style lang="scss">
-@import "./../../style/theme.css"
+@import "./../../style/theme.css";
 </style>

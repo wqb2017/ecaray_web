@@ -32,12 +32,12 @@ export default {
       value3: 36,
       value4: 48,
       value5: 42
-    }
+    };
   },
   methods: {
     formatTooltip(val) {
       return val / 100;
     }
   }
-}
+};
 </script>

@@ -3,13 +3,12 @@
   </el-rate>
 </template>
 
-
 <script>
 export default {
   data() {
     return {
       value5: 3.7
-    }
+    };
   }
-}
+};
 </script>
