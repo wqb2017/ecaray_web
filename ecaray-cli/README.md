@@ -12,7 +12,7 @@
 ## 使用
 
 ``` shell
-cd vue-multiple-spa
+cd ecaray_web
 npm install
 npm run dev
 ```
