@@ -1,3 +1,10 @@
+## 当你编写每一行代码时牢记以下几点：
+* 可读性
+* 一致的
+* 可预测的
+* 看上去就像是同一个人写出来的
+* 注释
+
 ## 文件说明
 > dev_dosc 开发规范
 * [html规范](https://github.com/wqb2017/ecaray_web/blob/master/dev-dosc/html.md)
@@ -7,13 +14,6 @@
 
 > ecaray_web 基于vue的单页多页手脚架
 * [vue-multiple-spa](https://github.com/wqb2017/ecaray_web/tree/master/ecaray-cli)
-
-## 当你编写每一行代码时牢记以下几点：
-* 可读性
-* 一致的
-* 可预测的
-* 看上去就像是同一个人写出来的
-* 注释
 
 ## 经典收藏
 > 工具篇
