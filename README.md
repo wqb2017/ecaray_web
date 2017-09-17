@@ -1,5 +1,3 @@
-# ecaray_web 开发说明
-
 ## 文件说明
 * dev_dosc 开发规范
 * ecaray_web 基于vue的单页多页手脚架
