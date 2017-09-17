@@ -1,5 +1,10 @@
 ## 文件说明
-* dev_dosc 开发规范
+> dev_dosc 开发规范
+* [html](https://github.com/wqb2017/ecaray_web/blob/master/dev-dosc/html.md)
+* [css](https://github.com/wqb2017/ecaray_web/blob/master/dev-dosc/css.md)
+* [scss](https://github.com/wqb2017/ecaray_web/blob/master/dev-dosc/scss.md)
+* [js](https://github.com/wqb2017/ecaray_web/blob/master/dev-dosc/js.md)
+
 * ecaray_web 基于vue的单页多页手脚架
 
 ## 当你编写每一行代码时牢记以下几点：
