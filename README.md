@@ -17,3 +17,7 @@
 
 ### js系列
 * [JavaScript深入系列、JavaScript专题系列、ES6系列、React系列](https://github.com/mqyqingfeng/Blog)
+
+### 前端周报
+* [每日前端周报](https://github.com/daochouwangu/webfrontdaily/issues/121)
+* [前端每周清单](http://www.infoq.com/cn/FE-Weekly)
