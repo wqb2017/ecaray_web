@@ -12,3 +12,4 @@
 * [git常用命令](https://segmentfault.com/a/1190000011200689)
 * [git官网](https://git-scm.com/book/zh/v2)
 * [npm入门文档](https://segmentfault.com/a/1190000005799797)
+* [Microsoft Visual Studio Code 中文手册](https://jeasonstudio.gitbooks.io/vscode-cn-doc/content/)
