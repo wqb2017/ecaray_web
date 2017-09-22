@@ -23,6 +23,8 @@
 * [git官网](https://git-scm.com/book/zh/v2)
 * [npm入门文档](https://segmentfault.com/a/1190000005799797)
 * [Microsoft Visual Studio Code 中文手册](https://jeasonstudio.gitbooks.io/vscode-cn-doc/content/)
+* [PxCook v3.0 UI自动标注工具](http://www.fancynode.com.cn/pxcook)
+* [vscode 前端IDE神器](https://code.visualstudio.com/)
 
 > js系列
 * [JavaScript深入系列、JavaScript专题系列、ES6系列、React系列](https://github.com/mqyqingfeng/Blog)
