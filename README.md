@@ -17,6 +17,10 @@
 > ecaray_web 基于vue的单页多页手脚架
 * [vue-multiple-spa](https://github.com/wqb2017/ecaray_web/tree/master/ecaray-cli)
 
+## vue开发工具
+* [vue-devtools](https://github.com/vuejs/vue-devtools)
+* [vue-devtools安装教程](https://segmentfault.com/a/1190000009682735)
+
 ## 经典收藏
 > 工具篇
 * [git常用命令](https://segmentfault.com/a/1190000011200689)
