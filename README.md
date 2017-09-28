@@ -21,6 +21,9 @@
 * [vue-devtools](https://github.com/vuejs/vue-devtools)
 * [vue-devtools安装教程](https://segmentfault.com/a/1190000009682735)
 
+## 数据模仿
+* [Mock](https://github.com/nuysoft/Mock/wiki/Basic)
+
 ## 经典收藏
 > 工具篇
 * [git常用命令](https://segmentfault.com/a/1190000011200689)
