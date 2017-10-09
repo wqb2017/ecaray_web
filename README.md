@@ -196,5 +196,5 @@
 3. [websocket第三方推送-Go Easy.io](http://www.goeasy.io/cn/started)
 
 ## [视图工具dataV]
-[使用教程](http://baijiahao.baidu.com/s?id=1563086322125345&wfr=spider&for=pc)
-[dataV](https://data.aliyun.com/visual/datav)
+1. [使用教程](http://baijiahao.baidu.com/s?id=1563086322125345&wfr=spider&for=pc)
+2. [dataV](https://data.aliyun.com/visual/datav)
