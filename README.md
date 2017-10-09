@@ -191,6 +191,6 @@
 1. [初探lodash](https://github.com/youngwind/blog/issues/1)
 
 ## [websocket]
-[认识html5websocket](http://www.cnblogs.com/wei2yi/archive/2011/03/23/1992830.html)
-[socket.io](https://socket.io/)
-[websocket第三方推送-Go Easy.io](http://www.goeasy.io/cn/started)
+1. [认识html5websocket](http://www.cnblogs.com/wei2yi/archive/2011/03/23/1992830.html)
+2. [socket.io](https://socket.io/)
+3. [websocket第三方推送-Go Easy.io](http://www.goeasy.io/cn/started)
