@@ -194,3 +194,7 @@
 1. [认识html5websocket](http://www.cnblogs.com/wei2yi/archive/2011/03/23/1992830.html)
 2. [socket.io](https://socket.io/)
 3. [websocket第三方推送-Go Easy.io](http://www.goeasy.io/cn/started)
+
+## [视图工具dataV]
+[使用教程](http://baijiahao.baidu.com/s?id=1563086322125345&wfr=spider&for=pc)
+[dataV](https://data.aliyun.com/visual/datav)
