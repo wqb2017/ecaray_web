@@ -189,3 +189,8 @@
 3. [code review](https://github.com/youngwind/blog/issues/4)
 2. [记一次如何找到Object.assign()编译方法的历程](https://github.com/youngwind/blog/issues/3)
 1. [初探lodash](https://github.com/youngwind/blog/issues/1)
+
+## [websocket]
+[认识html5websocket](http://www.cnblogs.com/wei2yi/archive/2011/03/23/1992830.html)
+[socket.io](https://socket.io/)
+[websocket第三方推送-Go Easy.io](http://www.goeasy.io/cn/started)
