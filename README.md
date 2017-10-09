@@ -190,11 +190,11 @@
 2. [记一次如何找到Object.assign()编译方法的历程](https://github.com/youngwind/blog/issues/3)
 1. [初探lodash](https://github.com/youngwind/blog/issues/1)
 
-## [websocket]
+## websocket
 1. [认识html5websocket](http://www.cnblogs.com/wei2yi/archive/2011/03/23/1992830.html)
 2. [socket.io](https://socket.io/)
 3. [websocket第三方推送-Go Easy.io](http://www.goeasy.io/cn/started)
 
-## [视图工具dataV]
+## 视图工具dataV
 1. [使用教程](http://baijiahao.baidu.com/s?id=1563086322125345&wfr=spider&for=pc)
 2. [dataV](https://data.aliyun.com/visual/datav)
