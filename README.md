@@ -72,10 +72,12 @@
 ## [webpack](https://github.com/youngwind/blog/labels/webpack)
 
 1. [webpack源码学习系列之三：loader 机制](https://github.com/youngwind/blog/issues/101)
-100. [webpack源码学习系列之二：code-splitting（代码切割）](https://github.com/youngwind/blog/issues/100)
-99. [webpack源码学习系列之一：如何实现一个简单的webpack](https://github.com/youngwind/blog/issues/99)
-65. [webpack打包bundle.js体积大小优化](https://github.com/youngwind/blog/issues/65)
-64. [webpack打包bundle.js依赖分析](https://github.com/youngwind/blog/issues/64)
+2. [webpack源码学习系列之二：code-splitting（代码切割）](https://github.com/youngwind/blog/issues/100)
+3. [webpack源码学习系列之一：如何实现一个简单的webpack](https://github.com/youngwind/blog/issues/99)
+4. [webpack打包bundle.js体积大小优化](https://github.com/youngwind/blog/issues/65)
+5. [webpack打包bundle.js依赖分析](https://github.com/youngwind/blog/issues/64)
+6. [eslint中文文档](http://eslint.cn/docs/rules/)
+6. [eslint](https://github.com/eslint/eslint)
 
 ## [JS](https://github.com/youngwind/blog/labels/JS)
 

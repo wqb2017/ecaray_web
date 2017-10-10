@@ -1,0 +1,22 @@
+{
+  "parser": "babel-eslint", // 指定语法解析器为babel-eslint
+  "env": {
+    "browser": true,
+    "node": true
+  },
+  "rules": {
+    "semi": [
+      // 结尾分必加
+      "error",
+      "always"
+    ]
+  },
+  "parserOptions": {
+    // 解析es6
+    "ecmaVersion": 6,
+    "sourceType": "module",
+    "ecmaFeatures": {
+      "jsx": true
+    }
+  }
+}
