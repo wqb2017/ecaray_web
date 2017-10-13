@@ -200,3 +200,4 @@
 ## 视图工具dataV
 1. [使用教程](http://baijiahao.baidu.com/s?id=1563086322125345&wfr=spider&for=pc)
 2. [dataV](https://data.aliyun.com/visual/datav)
+3. [操作]https://yq.aliyun.com/articles/57775?commentId=3948
