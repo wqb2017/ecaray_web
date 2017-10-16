@@ -1,0 +1,18 @@
+<!--pages/scanResult/index.wxml-->
+<view class="container">
+  <view class="password-title">
+    <text>开锁密码</text>
+  </view>
+
+  <view class="password-content">
+    <text>{{password}}</text>
+  </view>
+
+  <view class="tips">
+    <text>请使用密码解锁，{{time}}s后开始计费</text>
+    <view class="tips-action">
+      车辆有问题？
+      <text class="tips-href" bindtap="backIndex">返回首页进行车辆报损</text>
+    </view>
+  </view>
+</view>

@@ -1,0 +1,18 @@
+<!--pages/my/index.wxml-->
+<view class="container">
+   <view class="user-info">
+      <block wx:if="{{userInfo.userUrl!==''}}">
+         <view class="img">
+            <image src="{{userInfo.userUrl}}"></image>
+         </view>
+      </block>
+      <text class="user-name">{{userInfo.nickname}}</text>
+   </view>
+   <block wx:if="{{userInfo.userUrl!==''}}">
+      <view class="my-wallet" bindtap="movetoWallet">
+         <text>我的钱包</text>
+         <text>></text>
+      </view>
+   </block> 
+   <button type="{{btnType}}" class="btn-login" bindtap="login">{{actionText}}</button>
+</view> 

@@ -1,0 +1,27 @@
+<!--pages/wallet/index.wxml-->
+<view class="container">
+   <view class="overage">
+      <view>
+         <text class="overage-header">我的余额（元）</text>
+      </view>
+      <view>
+         <text class="overage-content">{{money}}</text>
+      </view>
+      <view>
+         <text class="overage-desc">余额说明</text>
+      </view>
+   </view>
+   <button class="btn-charge" bindtap="movetoCharge">充值</button>
+   <view class="my-ticket tapbar">
+      <text>我的用车券</text>
+      <text>{{ticket}}张></text>
+   </view>
+   <view class="my-deposit tapbar">
+      <text>我的押金</text>
+      <text><text class="color">99元，押金退款</text>></text>
+   </view>
+   <view class="about tapbar">
+      <text>关于ofo</text>
+      <text>></text>
+   </view>
+</view>
