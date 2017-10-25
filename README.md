@@ -20,7 +20,6 @@
 ## vue开发工具
 * [vue-devtools](https://github.com/vuejs/vue-devtools)
 * [vue-devtools安装教程](https://segmentfault.com/a/1190000009682735)
-* [vue关于webpack打包优化记-廖应龙](https://github.com/liaoyinglong/vue-template)
 
 ## 数据模仿
 * [Mock](https://github.com/nuysoft/Mock/wiki/Basic)
@@ -202,3 +201,8 @@
 1. [使用教程](http://baijiahao.baidu.com/s?id=1563086322125345&wfr=spider&for=pc)
 2. [dataV](https://data.aliyun.com/visual/datav)
 3. [操作]https://yq.aliyun.com/articles/57775?commentId=3948
+
+## 亿车分享记
+* [es6常用开发模块-王其标](https://github.com/wqb2017/my-blog/blob/master/es2015/DOSC.md)
+* [微信公众号开发相关配置项介绍-冉成伟](https://github.com/RanCW/shareWechat)
+* [vue关于webpack打包优化记-廖应龙](https://github.com/liaoyinglong/vue-template)
