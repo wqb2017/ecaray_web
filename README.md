@@ -20,6 +20,7 @@
 ## vue开发工具
 * [vue-devtools](https://github.com/vuejs/vue-devtools)
 * [vue-devtools安装教程](https://segmentfault.com/a/1190000009682735)
+* [vue关于webpack打包优化记-廖应龙](https://github.com/liaoyinglong/vue-template)
 
 ## 数据模仿
 * [Mock](https://github.com/nuysoft/Mock/wiki/Basic)
