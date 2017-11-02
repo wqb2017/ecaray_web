@@ -47,3 +47,9 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
   |-router..................................//路由配置
   |-view....................................//业务代码
 ```
+
+## 使用sass时注意
+>要安装一下个loader
+* npm install sass-loader --save-dev
+* npm install node-loader --save-dev
+* npm install node-sass --save-dev
