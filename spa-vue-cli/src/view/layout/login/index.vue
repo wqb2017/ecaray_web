@@ -9,6 +9,5 @@ export default {
   components: {
     ecRegister
   }
-
 };
 </script>
