@@ -1,3 +1,9 @@
+/*
+ * @Author: wangqibiao
+ * @Date: 2017-11-02 20:20:08
+ * @Last Modified by:   wangqibiao
+ * @Last Modified time: 2017-11-02 20:20:08
+ */
 <template>
   <el-form id="register" :model="formData" :rules="rules" ref="formData">
     <el-form-item prop="login_name">

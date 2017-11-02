@@ -1,3 +1,9 @@
+/*
+ * @Author: wangqibiao
+ * @Date: 2017-11-02 20:18:42
+ * @Last Modified by:   wangqibiao
+ * @Last Modified time: 2017-11-02 20:18:42
+ */
 import Mock from "mockjs";
 import { createPromiseMock } from "@/common/js/fetch";
 /**

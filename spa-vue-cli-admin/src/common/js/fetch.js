@@ -1,3 +1,9 @@
+/*
+ * @Author: wangqibiao
+ * @Date: 2017-11-02 20:15:36
+ * @Last Modified by:   wangqibiao
+ * @Last Modified time: 2017-11-02 20:15:36
+ */
 import Mock from "mockjs";
 
 export function createPromiseMock(params) {

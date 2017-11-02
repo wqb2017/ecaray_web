@@ -1,3 +1,9 @@
+/*
+ * @Author: wangqibiao
+ * @Date: 2017-11-02 20:20:43
+ * @Last Modified by:   wangqibiao
+ * @Last Modified time: 2017-11-02 20:20:43
+ */
 <template>
   <div id="home">
     <div class="home-header">

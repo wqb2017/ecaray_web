@@ -1,3 +1,9 @@
+/*
+ * @Author: wangqibiao
+ * @Date: 2017-11-02 20:20:21
+ * @Last Modified by:   wangqibiao
+ * @Last Modified time: 2017-11-02 20:20:21
+ */
 import Login from '@/view/layout/login';
 import Home from '@/view/layout/home';
 import Workbench from '@/view/workbench';

@@ -1,3 +1,9 @@
+/*
+ * @Author: wangqibiao
+ * @Date: 2017-11-02 20:19:45
+ * @Last Modified by:   wangqibiao
+ * @Last Modified time: 2017-11-02 20:19:45
+ */
 <template>
   <div id="user">
     <el-dropdown :hide-on-click="false">

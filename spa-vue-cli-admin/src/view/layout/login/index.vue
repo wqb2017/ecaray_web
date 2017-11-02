@@ -1,3 +1,9 @@
+/*
+ * @Author: wangqibiao
+ * @Date: 2017-11-02 20:20:48
+ * @Last Modified by:   wangqibiao
+ * @Last Modified time: 2017-11-02 20:20:48
+ */
 <template>
   <div id="login">
     <register @toLogin="_toLogin"></register>
@@ -11,7 +17,6 @@ export default {
   },
   methods: {
     _toLogin(formData) {
-      console.log(formData);
       this.$router.push({ path: '/workbench'});
     }
   }

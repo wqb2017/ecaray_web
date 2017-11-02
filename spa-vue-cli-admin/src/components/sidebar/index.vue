@@ -1,3 +1,9 @@
+/*
+ * @Author: wangqibiao
+ * @Date: 2017-11-02 20:19:40
+ * @Last Modified by:   wangqibiao
+ * @Last Modified time: 2017-11-02 20:19:40
+ */
 <template>
   <div id="sidebar">
     <el-menu mode="vertical" unique-opened :default-active="defaultActive" theme="light" class="el-menu-vertical-demo" :router="true" ref="menu" :collapse="false">
