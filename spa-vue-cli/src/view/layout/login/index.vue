@@ -1,13 +1,13 @@
 <template>
   <div id="login">
-    <ec-register></ec-register>
+    <register></register>
   </div>
 </template>
 <script>
-import ecRegister from "@/components/register";
+import Register from "@/components/register";
 export default {
   components: {
-    ecRegister
+    Register
   }
 };
 </script>
