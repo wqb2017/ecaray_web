@@ -1,8 +1,8 @@
 /*
  * @Author: wangqibiao
  * @Date: 2017-11-02 20:18:42
- * @Last Modified by:   wangqibiao
- * @Last Modified time: 2017-11-02 20:18:42
+ * @Last Modified by: wangqibiao
+ * @Last Modified time: 2017-11-04 22:18:56
  */
 import Mock from "mockjs";
 import { createPromiseMock } from "@/common/js/fetch";
@@ -50,7 +50,10 @@ export function workbenchList(params) {
       'date': '2016-05-02',
       'name': '王小虎',
       'address': '上海市普陀区金沙江路 1518 弄'
-    }]
+    }],
+    'page_index':1,
+    'page_size':10,
+    'page_total':24,
   };
   return createPromiseMock(params);
 }

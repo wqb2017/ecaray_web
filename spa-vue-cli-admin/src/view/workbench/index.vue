@@ -1,36 +1,40 @@
 /*
  * @Author: wangqibiao
  * @Date: 2017-11-02 20:20:57
- * @Last Modified by:   wangqibiao
- * @Last Modified time: 2017-11-02 20:20:57
+ * @Last Modified by: wangqibiao
+ * @Last Modified time: 2017-11-04 22:12:07
  */
 <template>
   <div id="workbench">
-    <el-table :data="listData" style="width: 100%">
+    <tableList :tableListData="tableListData">
       <el-table-column prop="date" label="日期" width="180">
       </el-table-column>
       <el-table-column prop="name" label="姓名" width="180">
       </el-table-column>
       <el-table-column prop="address" label="地址">
       </el-table-column>
-    </el-table>
+    </tableList>
   </div>
 </template>
 <script>
 import { workbenchList } from "@/api/datas";
+import tableList from "@/components/table_list";
 export default {
   data() {
     return {
-      listData: []
+      tableListData: []
     };
   },
   created() {
     this._pageInit();
   },
+  components: {
+    tableList
+  },
   methods: {
     _pageInit() {
       workbenchList().then(res => {
-        this.listData = res.data;
+        this.tableListData = res;
       });
     }
   }

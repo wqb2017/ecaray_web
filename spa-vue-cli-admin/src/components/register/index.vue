@@ -7,13 +7,13 @@
 <template>
   <el-form id="register" :model="formData" :rules="rules" ref="formData">
     <el-form-item prop="login_name">
-      <el-input placeholder="账号" :autofocus="true" v-model="formData.login_name"></el-input>
+      <el-input placeholder="账号" :autofocus="true" @keyup.enter.native="_submit" v-model="formData.login_name"></el-input>
     </el-form-item>
     <el-form-item prop="password">
-      <el-input placeholder="密码" type="password" v-model="formData.password"></el-input>
+      <el-input placeholder="密码" type="password" @keyup.enter.native="_submit" v-model="formData.password"></el-input>
     </el-form-item>
     <el-form-item>
-      <el-button type="primary" :disabled="formData.isClick" @click="_submit" style="width:100%;">登 录</el-button>
+      <el-button type="primary" :disabled="formData.isClick" @click.prevent="_submit" style="width:100%;">登 录</el-button>
     </el-form-item>
   </el-form>
 </template>
@@ -50,6 +50,7 @@ export default {
       }
     },
     _submit() {
+      console.log(new Date());
       this.$emit('toLogin', this.formData);
     }
   }

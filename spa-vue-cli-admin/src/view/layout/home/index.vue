@@ -31,7 +31,7 @@ export default {
 <style lang="scss" scoped>
 $width-size_sidebar:200px;
 $height-size_header:60px;
-$min-width-size_main:1024px;
+$min-width-size_main:1000px;
 $z-index_header:9999;
 $z-index_sidebar:9998;
 #home {
@@ -41,6 +41,7 @@ $z-index_sidebar:9998;
     background-color: #373D41;
     color: #fff;
     z-index: $z-index_header;
+    position: fixed;
   }
   .home-sidebar {
     position: fixed;
@@ -50,11 +51,12 @@ $z-index_sidebar:9998;
     background: #fff;
     color: #888;
     z-index: $z-index_sidebar;
+    padding-top: $height-size_header;
   }
   .home-main {
     margin-left: $width-size_sidebar;
     min-width: $min-width-size_main;
-    padding: 24px;
+    padding: $height-size_header+24 24px 0 24px;
   }
 }
 </style>
