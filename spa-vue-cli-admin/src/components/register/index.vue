@@ -1,11 +1,14 @@
 /*
  * @Author: wangqibiao
  * @Date: 2017-11-02 20:20:08
- * @Last Modified by:   wangqibiao
- * @Last Modified time: 2017-11-02 20:20:08
+ * @Last Modified by: wangqibiao
+ * @Last Modified time: 2017-11-06 10:00:07
  */
 <template>
   <el-form id="register" :model="formData" :rules="rules" ref="formData">
+    <el-form-item>
+      <h3 class="title">后台管理系统</h3>
+    </el-form-item>
     <el-form-item prop="login_name">
       <el-input placeholder="账号" :autofocus="true" @keyup.enter.native="_submit" v-model="formData.login_name"></el-input>
     </el-form-item>
@@ -50,7 +53,6 @@ export default {
       }
     },
     _submit() {
-      console.log(new Date());
       this.$emit('toLogin', this.formData);
     }
   }
@@ -63,6 +65,11 @@ export default {
   background-color: #fff;
   padding: 20px 20px 1px 20px;
   border-radius: 4px;
+  .title{
+    text-align: center;
+    font-size: 28px;
+    color: #333;
+  }
 }
 </style>
 

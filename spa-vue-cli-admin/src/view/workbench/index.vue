@@ -2,7 +2,7 @@
  * @Author: wangqibiao
  * @Date: 2017-11-02 20:20:57
  * @Last Modified by: wangqibiao
- * @Last Modified time: 2017-11-04 22:12:07
+ * @Last Modified time: 2017-11-06 10:50:45
  */
 <template>
   <div id="workbench">
@@ -18,11 +18,11 @@
 </template>
 <script>
 import { workbenchList } from "@/api/datas";
-import tableList from "@/components/table_list";
+import tableList from "@/components/tableList";
 export default {
   data() {
     return {
-      tableListData: []
+      tableListData: {}
     };
   },
   created() {
