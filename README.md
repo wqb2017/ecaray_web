@@ -17,6 +17,11 @@
 * [scss 规范](https://github.com/wqb2017/ecaray_web/blob/master/dev-dosc/scss.md)
 * [js 规范](https://github.com/wqb2017/ecaray_web/blob/master/dev-dosc/js.md)
 
-# blog
+# ide
+[vscode](https://github.com/wqb2017/vscode-plugins)
 
-* [wqb2017](https://github.com/wqb2017/blog)
+# 前端脚手架
+[ecaray-cli](https://github.com/wqb2017/ecaray-cli)
+
+# vue项目模板
+[ec-vue-cli](https://github.com/wqb2017/ec-vue-cli)
