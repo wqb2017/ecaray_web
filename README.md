@@ -19,4 +19,4 @@
 
 # blog
 
-* [wqb2017](https://github.com/wqb2017/book/blob/master/blog/readme.md)
+* [wqb2017](https://github.com/wqb2017/blog)
