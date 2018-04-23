@@ -25,3 +25,10 @@
 
 ## vue项目模板
 [ec-vue-cli](https://github.com/wqb2017/ec-vue-cli)
+
+## 实战经验
+[readme](https://github.com/wqb2017/blog/tree/master/readme)
+
+## 插件
+[车牌键盘](https://github.com/liaoyinglong/plate-number-input)
+[多项目差异化合并打包](https://github.com/wqb2017/projects-merge)
