@@ -26,6 +26,9 @@
 ## vue项目模板
 [ec-vue-cli](https://github.com/wqb2017/ec-vue-cli)
 
+## 多城市差异化应用模板
+[vue-prejects-diff-merge](https://github.com/wqb2017/vue-prejects-diff-merge)
+
 ## 实战经验
 [readme](https://github.com/wqb2017/blog/tree/master/readme)
 
