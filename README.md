@@ -8,6 +8,10 @@
 * 看上去就像是同一个人写出来的
 * 注释
 
+## 技术选型
+* pc端 vue+element-ui
+* 移动端 vue+mint-ui
+
 ## 文件说明
 
 > dev_dosc 开发规范
