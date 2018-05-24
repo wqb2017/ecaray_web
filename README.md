@@ -21,6 +21,10 @@
 * [scss 规范](https://github.com/wqb2017/ecaray_web/blob/master/dev-dosc/scss.md)
 * [js 规范](https://github.com/wqb2017/ecaray_web/blob/master/dev-dosc/js.md)
 
+> 公司开发规范
+* 采用百度【fex-team】(https://github.com/fex-team/styleguide)团队规范，除了以下内容：
+1. 缩进统一使用2个空格
+
 ## ide
 [vscode](https://github.com/wqb2017/vscode-plugins)
 
