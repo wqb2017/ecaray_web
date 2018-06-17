@@ -25,6 +25,9 @@
 * 采用百度【fex-team团队规范】(https://github.com/fex-team/styleguide)，
 * 除了以下内容：
 1. 缩进统一使用2个空格
+2. js和css文件不要超过300行，超过了就要分块
+3. 提交的代码一定要整洁，不要出现不必要的无用模块无用模块注释就提交，无用模块的注释要做简单的说明
+4. 每个模块要使用scoped做做作用域，不要影响其他页面的样式，如要重置请使用 /deep/，要是无法解决飞得使用全局时，请注释说明理由
 
 ## ide
 [vscode](https://github.com/wqb2017/vscode-plugins)
