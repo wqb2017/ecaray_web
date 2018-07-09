@@ -20,6 +20,7 @@
 * [css 规范](https://github.com/wqb2017/ecaray_web/blob/master/dev-dosc/css.md)
 * [scss 规范](https://github.com/wqb2017/ecaray_web/blob/master/dev-dosc/scss.md)
 * [js 规范](https://github.com/wqb2017/ecaray_web/blob/master/dev-dosc/js.md)
+* [vue 规范](https://github.com/wqb2017/ecaray_web/blob/master/dev-dosc/vue.md)
 
 > 公司开发规范
 * 采用百度【fex-team团队规范】(https://github.com/fex-team/styleguide)，
